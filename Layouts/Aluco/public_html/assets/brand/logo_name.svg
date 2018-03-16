@@ -1,0 +1,19 @@
+<svg width="401" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="403" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="49.5" rx="49" id="svg_13" cy="222.5" cx="200.5" stroke-width="99" stroke="#e59c2d" fill="#000"/>
+  <ellipse stroke="#000" canvas-opacity="1" ry="88.000001" rx="97" id="svg_6" cy="222.000001" cx="203" fill-opacity="null" stroke-opacity="null" stroke-width="22.5" fill="none"/>
+  <ellipse ry="37.5" rx="11.5" id="svg_14" cy="203.5" cx="203.5" stroke-width="72.5" stroke="#000" fill="none"/>
+  <ellipse transform="rotate(-4.236394882202148 162.99999999999972,182.49999999999991) " ry="17.858378" rx="18.6525" id="svg_15" cy="182.5" cx="163" stroke-width="46" fill="#ffffff"/>
+  <line transform="rotate(-7.458842754364014 227.50000000000006,159) " stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="267" x2="355.500001" y1="51.000006" x1="99.499997" stroke-width="72.5" fill="none"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="52" id="svg_16" y="376" x="130" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Aluco</text>
+ </g>
+</svg>
